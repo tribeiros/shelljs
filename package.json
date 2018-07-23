@@ -1,0 +1,11 @@
+{
+  "name": "shelljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Ribeiro <tribeiros@indracompany.com> (http://caosfera.com.br/)",
+  "license": "MIT"
+}
