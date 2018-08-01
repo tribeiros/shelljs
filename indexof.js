@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 // lib to shell
 const shell = require('shelljs')
 
